@@ -1,11 +1,13 @@
 about:
-  description: hex-dump-type utility xxd
+  description:
+  |
+    hex-dump-type utility xxd
   license: GPL-2.0
   homepage: 
   head: 2186a57
   archived: false
   latestVersion: v1.2
-  collectedAt: 2026-09-04T04:59:01Z
+  collectedAt: 2026-09-04T19:51:39Z
 timeline:
   created: 2022-03-28
   lastCommit: 2025-06-05
@@ -16,16 +18,24 @@ popularity:
   fork: 20
   release: 3
   contributor: 4
-  pullRequest: 0
+  pullRequest: 65
   issue: 19
 language:
   C: 27739
   Shell: 10342
   CMake: 449
-totalLine: 38530
+totalBytes: 38530
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -56,3 +66,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 5
+    openPR: 0
+    closedIssue: 1
+    openIssue: 0
+    commit: 12
+total:
+  release: 3
+  mergedPR: 65
+  openPR: 0
+  closedIssue: 18
+  openIssue: 1
+  commit: 196
+---
+---
+
