@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2"
   latestRelease: "v1.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:06:34Z
+  collectedAt: 2026-09-09T20:47:56Z
 timeline:
   created: 2022-03-28
   lastCommit: 2025-06-05
@@ -85,7 +85,7 @@ total:
   commit: 196
 ---
 path: /home/runner/.x-repo/github.com/ckormanyos/xxd
-collectedAt: 2026-09-09T06:06:35Z
+collectedAt: 2026-09-09T20:47:58Z
 loc:
   C:
     code: 858
