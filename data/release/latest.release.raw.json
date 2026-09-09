@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10585,
       "digest": null,
-      "download_count": 1116,
+      "download_count": 1118,
       "created_at": "2024-08-06T13:37:54Z",
       "updated_at": "2024-08-06T13:37:55Z",
       "browser_download_url": "https://github.com/ckormanyos/xxd/releases/download/v1.2/xxd-win64-msvc.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9130,
       "digest": null,
-      "download_count": 4195,
+      "download_count": 4207,
       "created_at": "2024-08-06T13:37:55Z",
       "updated_at": "2024-08-06T13:37:55Z",
       "browser_download_url": "https://github.com/ckormanyos/xxd/releases/download/v1.2/xxd-x86_64-linux-gnu.tar.gz"
