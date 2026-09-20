@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7682,
       "digest": null,
-      "download_count": 49,
+      "download_count": 50,
       "created_at": "2024-08-06T13:37:54Z",
       "updated_at": "2024-08-06T13:37:54Z",
       "browser_download_url": "https://github.com/ckormanyos/xxd/releases/download/v1.2/xxd-macos.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9130,
       "digest": null,
-      "download_count": 4305,
+      "download_count": 4363,
       "created_at": "2024-08-06T13:37:55Z",
       "updated_at": "2024-08-06T13:37:55Z",
       "browser_download_url": "https://github.com/ckormanyos/xxd/releases/download/v1.2/xxd-x86_64-linux-gnu.tar.gz"
